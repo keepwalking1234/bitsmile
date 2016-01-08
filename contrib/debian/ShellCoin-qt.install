@@ -1,0 +1,5 @@
+BitSmile-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/BitSmile-qt.desktop usr/share/applications
+debian/BitSmile-qt.protocol usr/share/kde4/services/

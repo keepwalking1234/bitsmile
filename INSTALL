@@ -1,0 +1,9 @@
+Building BitSmile
+
+See doc/readme-qt.rst for instructions on building BitSmile QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitSmile.
+
+See doc/build-*.txt for instructions on building BitSmiled,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitSmile.

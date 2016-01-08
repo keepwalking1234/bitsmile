@@ -1,0 +1,11 @@
+[Protocol]
+exec=BitSmile-qt '%u'
+protocol=BitSmile
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
